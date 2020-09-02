@@ -99,7 +99,7 @@ const locations = [
     },
     {
         coordinates: [-96.7155506, 32.9576808],
-        address: "801 Alpha Dr #135, Richardson, TX 75081",
+        address: "801 Alpha Dr #105, Richardson, TX 75081",
         size: 3300,
         cost: 2100,
         diff: 400,
